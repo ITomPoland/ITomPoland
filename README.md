@@ -1,34 +1,35 @@
-# Hi there, I'm Tomasz Szmajda (TomKingRAKI) 👋
+# Hi there, I'm Tomasz Szmajda 👋
 
-### Creative Developer & AI Research Enthusiast
-I specialize in building high-end interactive experiences and fine-tuning logic for large language models.
+### Computer Science Student @ University of Opole | Creative Developer
+I focus on bridging the gap between design and technology through interactive web experiences.
+
+---
+
+### 🎓 About Me
+* 🏛 **Education:** Computer Science student at the University of Opole (Uniwersytet Opolski).
+* 💻 **Specialization:** Creative Development with a focus on WebGL and high-performance animations.
+* ⚡ **Activity:** over 330 contributions in the last year – constantly refining my craft.
 
 ---
 
 ### 🛠 Technical Stack
 
-| Category                | Technologies                                                     |
-| :---                    | :---                                                             |
+| Category | Technologies |
+| :--- | :--- |
 | **Frontend & Creative** | React, Next.js, Three.js, WebGL, GSAP, Framer Motion, TypeScript |
-| **Backend & AI**        | Node.js, C++, LLM Fine-tuning & Training                         |
-| **Tools & Workflow**    | Git, Figma, Visual Studio Code                                   |
+| **Languages** | JavaScript, TypeScript, C++, HTML/CSS |
+| **Tools** | Figma, Visual Studio Code, Git |
 
 ---
 
-### 🔬 What I'm working on
-* **WebGL Experiences:** Crafting performant, interactive web experiences using Three.js.
-* **System Architecture:** Exploring low-level efficiency and game logic in C++.
+### 📊 GitHub Statistics
+![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITomPoland&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITomPoland&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### 📊 My GitHub Stats
-![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomKingRAKI&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomKingRAKI&layout=compact&theme=dark&hide_border=true)
-
-> **335 contributions** in the last year – always building, always learning.
-
----
-
-### 📫 Connect with me
+### 📫 Let's connect
+* **Email:** [tomszma12@gmail.com](mailto:tomszma12@gmail.com)
 * **LinkedIn:** [in/tomasz-szmajda-259337305](https://linkedin.com/in/tomasz-szmajda-259337305)
-* **Behance:** [Portfolio & Case Studies](https://www.behance.net/gallery/243102869/YOUNG-MULTI-OFFICIAL-EXPERIENCE)
+* **Behance:** [Portfolio Case Studies](https://www.behance.net/gallery/243102869/YOUNG-MULTI-OFFICIAL-EXPERIENCE)
+* **Instagram:** [@tom.king.e](https://instagram.com/tom.king.e)
