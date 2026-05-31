@@ -32,9 +32,8 @@ I focus on bridging the gap between design and technology through interactive we
 
 ### 📫 Let's connect
 * **Email:** [tomszma12@gmail.com](mailto:tomszma12@gmail.com)
-* **LinkedIn:** [in/tomasz-szmajda-259337305](https://linkedin.com/in/tomasz-szmajda-259337305)
-* **Behance:** [Portfolio Case Studies](https://www.behance.net/gallery/243102869/YOUNG-MULTI-OFFICIAL-EXPERIENCE)
-* **Instagram:** [@tom.king.e](https://instagram.com/tom.king.e)
+* **LinkedIn:** [in/tomasz-szmajda-259337305](https://www.linkedin.com/in/itomdev/)
+* **Instagram:** [@itom.dev](https://www.instagram.com/itom.dev/)
 
 ---
 
