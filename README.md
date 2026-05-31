@@ -12,13 +12,12 @@ I focus on bridging the gap between design and technology through interactive we
 
 ---
 
-### 🛠 Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & Creative** | React, Next.js, Three.js, WebGL, GSAP, Framer Motion, TypeScript |
-| **Languages** | JavaScript, TypeScript, C++, HTML/CSS |
-| **Tools** | Figma, Visual Studio Code, Git |
+### 🛠️ Technical Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,js,html,css,figma,vscode,git,cpp&perline=6" />
+  </a>
+</p>
 
 ---
 
@@ -36,3 +35,10 @@ I focus on bridging the gap between design and technology through interactive we
 * **LinkedIn:** [in/tomasz-szmajda-259337305](https://linkedin.com/in/tomasz-szmajda-259337305)
 * **Behance:** [Portfolio Case Studies](https://www.behance.net/gallery/243102869/YOUNG-MULTI-OFFICIAL-EXPERIENCE)
 * **Instagram:** [@tom.king.e](https://instagram.com/tom.king.e)
+
+---
+
+### ❤️ Support my work
+I build high-quality UI components and share them for free every Wednesday. If my work helped you save time, consider supporting me! 
+[![Sponsor ITomPoland](https://img.shields.io/badge/Sponsor-ITomPoland-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ITomPoland)
+
