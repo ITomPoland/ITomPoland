@@ -23,8 +23,11 @@ I focus on bridging the gap between design and technology through interactive we
 ---
 
 ### 📊 GitHub Statistics
-![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITomPoland&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITomPoland&layout=compact&theme=dark&hide_border=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ITomPoland&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Tomasz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITomPoland&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</div>
 
 ---
 
